@@ -11,7 +11,7 @@ package ejerciciogitfran;
  */
 public class UsarPruebaGit {
     public static void main(String[] args) {
-        System.out.println("Hola mundo desde git");
+        System.out.println("Hola mundo desde github");
         PruebaGit prueba = new PruebaGit();
         prueba.num=20;
         System.out.println(prueba.num);
